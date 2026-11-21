@@ -1,4 +1,4 @@
-## Hi there 👋
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=32&pause=1000&color=5996FF&background=A97FFF00&width=435&lines=Hi%2Cthis+is+warter666+%3A%29)](https://git.io/typing-svg)
 
 <!--
 **warter666/warter666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
